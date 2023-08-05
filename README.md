@@ -1,2 +1,2 @@
 # InfoaidTech
-Projects on Machine Learning
+Projects on Machine Learning Internship
